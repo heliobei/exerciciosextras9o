@@ -5,6 +5,8 @@ const chapters = [
   { id: 1, title: " Eu quero dinheiro pra quê?", teacherPdf: "/assets/pdfs/Educador_Capitulo_01_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_01_9o.pdf" },
   { id: 2, title: "Futuro, aqui vou eu!", teacherPdf: "/assets/pdfs/Educador_Capitulo_02_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_02_9o.pdf" },
   { id: 3, title: "Dividindo pizzas durante a aula", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_9o.pdf" },
+  { id: 4, title: "O preço do dinheiro", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_9o.pdf" },
+
 ];
 
 const ChapterList = () => {
