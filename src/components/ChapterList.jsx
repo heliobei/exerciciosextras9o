@@ -7,6 +7,9 @@ const chapters = [
   { id: 3, title: "Dividindo pizzas durante a aula", teacherPdf: "/assets/pdfs/Educador_Capitulo_03_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_03_9o.pdf" },
   { id: 4, title: "O preço do dinheiro", teacherPdf: "/assets/pdfs/Educador_Capitulo_04_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_04_9o.pdf" },
 
+  { id: 5, title: "A vovó mandou um abraço e um dinheirinho", teacherPdf: "/assets/pdfs/Educador_Capitulo_05_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_05_9o.pdf" },
+  { id: 6, title: "Dinheiro crescendo como bactérias? Boas e más notícias", teacherPdf: "/assets/pdfs/Educador_Capitulo_06_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_06_9o.pdf" },
+  { id: 7, title: "Uma árvore que dá dinheiro", teacherPdf: "/assets/pdfs/Educador_Capitulo_07_9o.pdf", studentPdf: "/assets/pdfs/Estudante_Capitulo_07_9o.pdf" },
 ];
 
 const ChapterList = () => {
